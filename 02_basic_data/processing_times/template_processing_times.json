@@ -1,0 +1,46 @@
+{
+  "_comment": "Processing times template – copy this file, rename it to <scene_id>_processing_times.json and fill in all fields. Times are in hours.",
+  "scene_id": "SC001",
+  "scene_name": "",
+  "scene_type": "",
+  "last_updated": "",
+  "step_times": [
+    {
+      "step_id": 1,
+      "step_name": "Data Intake",
+      "estimated_hours": 0
+    },
+    {
+      "step_id": 2,
+      "step_name": "Modelling",
+      "estimated_hours": 0
+    },
+    {
+      "step_id": 3,
+      "step_name": "Texturing",
+      "estimated_hours": 0
+    },
+    {
+      "step_id": 4,
+      "step_name": "Lighting",
+      "estimated_hours": 0
+    },
+    {
+      "step_id": 5,
+      "step_name": "Rendering",
+      "estimated_hours": 0
+    },
+    {
+      "step_id": 6,
+      "step_name": "Quality Assurance",
+      "estimated_hours": 0
+    },
+    {
+      "step_id": 7,
+      "step_name": "Delivery",
+      "estimated_hours": 0
+    }
+  ],
+  "total_estimated_hours": 0,
+  "notes": ""
+}

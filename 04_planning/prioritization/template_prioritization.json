@@ -1,0 +1,39 @@
+{
+  "_comment": "Prioritization template – copy this file, rename it to <date>_prioritization.json and fill in all fields.",
+  "prioritization_id": "",
+  "planning_cycle": "",
+  "created_date": "",
+  "created_by": "",
+  "criteria": [
+    {
+      "criterion_id": "C001",
+      "name": "Business Value",
+      "description": "Estimated business impact if delivered on time.",
+      "weight": 0.4
+    },
+    {
+      "criterion_id": "C002",
+      "name": "Deadline",
+      "description": "Date by which the task must be completed.",
+      "weight": 0.4
+    },
+    {
+      "criterion_id": "C003",
+      "name": "Dependencies",
+      "description": "Number of downstream tasks blocked by this task.",
+      "weight": 0.2
+    }
+  ],
+  "prioritized_tasks": [
+    {
+      "rank": 1,
+      "task_id": "",
+      "epic_id": "",
+      "scene_id": "",
+      "trade_id": "",
+      "application_id": "",
+      "priority_score": 0,
+      "justification": ""
+    }
+  ]
+}

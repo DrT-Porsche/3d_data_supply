@@ -1,0 +1,23 @@
+{
+  "_comment": "Sequence template – copy this file, rename it to <epic_id>_sequence.json and fill in all fields.",
+  "sequence_id": "",
+  "epic_id": "EP000",
+  "created_date": "",
+  "created_by": "",
+  "notes": "",
+  "sequence": [
+    {
+      "position": 1,
+      "task_id": "",
+      "scene_id": "",
+      "scene_name": "",
+      "trade_id": "",
+      "application_id": "",
+      "planned_start_date": "",
+      "planned_end_date": "",
+      "estimated_total_hours": 0,
+      "dependencies": [],
+      "notes": ""
+    }
+  ]
+}
