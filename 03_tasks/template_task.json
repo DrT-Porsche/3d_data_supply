@@ -1,0 +1,84 @@
+{
+  "_comment": "Task template – copy this file, rename it to <epic_id>_<trade>_<application>_<scene_id>_task.json and fill in all fields.",
+  "task_id": "",
+  "epic_id": "EP000",
+  "scene_id": "SC001",
+  "scene_name": "",
+  "trade_id": "TR001",
+  "trade_name": "",
+  "application_id": "APP001",
+  "application_name": "",
+  "status": "open",
+  "priority": "",
+  "created_date": "",
+  "due_date": "",
+  "assignee": "",
+  "scope_summary": "",
+  "fes_code": "",
+  "estimated_total_hours": 0,
+  "steps": [
+    {
+      "step_id": 1,
+      "step_name": "Data Intake",
+      "status": "open",
+      "assignee": "",
+      "estimated_hours": 0,
+      "actual_hours": 0,
+      "notes": ""
+    },
+    {
+      "step_id": 2,
+      "step_name": "Modelling",
+      "status": "open",
+      "assignee": "",
+      "estimated_hours": 0,
+      "actual_hours": 0,
+      "notes": ""
+    },
+    {
+      "step_id": 3,
+      "step_name": "Texturing",
+      "status": "open",
+      "assignee": "",
+      "estimated_hours": 0,
+      "actual_hours": 0,
+      "notes": ""
+    },
+    {
+      "step_id": 4,
+      "step_name": "Lighting",
+      "status": "open",
+      "assignee": "",
+      "estimated_hours": 0,
+      "actual_hours": 0,
+      "notes": ""
+    },
+    {
+      "step_id": 5,
+      "step_name": "Rendering",
+      "status": "open",
+      "assignee": "",
+      "estimated_hours": 0,
+      "actual_hours": 0,
+      "notes": ""
+    },
+    {
+      "step_id": 6,
+      "step_name": "Quality Assurance",
+      "status": "open",
+      "assignee": "",
+      "estimated_hours": 0,
+      "actual_hours": 0,
+      "notes": ""
+    },
+    {
+      "step_id": 7,
+      "step_name": "Delivery",
+      "status": "open",
+      "assignee": "",
+      "estimated_hours": 0,
+      "actual_hours": 0,
+      "notes": ""
+    }
+  ]
+}

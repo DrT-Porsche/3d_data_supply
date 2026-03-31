@@ -1,0 +1,38 @@
+{
+  "_comment": "Epic template – copy this file, rename it to <epic_id>_epic.json and fill in all fields.",
+  "epic_id": "EP000",
+  "project_name": "",
+  "status": "draft",
+  "created_date": "",
+  "last_updated": "",
+  "owner": "",
+  "applications": [
+    {
+      "application_id": "APP001",
+      "name": "",
+      "version": ""
+    }
+  ],
+  "trades": [
+    {
+      "trade_id": "TR001",
+      "name": "",
+      "applications_used": ["APP001"]
+    }
+  ],
+  "scenes": [
+    {
+      "scene_id": "SC001",
+      "name": "",
+      "trade_id": "TR001",
+      "application_id": "APP001",
+      "scope": {
+        "description": "",
+        "detail_level": "",
+        "format": "",
+        "resolution": "",
+        "additional_notes": ""
+      }
+    }
+  ]
+}

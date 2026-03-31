@@ -1,0 +1,18 @@
+{
+  "_comment": "FES mapping template – copy this file, rename it to <scene_id>_fes_mapping.json and fill in all fields.",
+  "scene_id": "SC001",
+  "scene_name": "",
+  "fes_code": "",
+  "default_data_available": true,
+  "default_data_description": "",
+  "data_sources": [
+    {
+      "source_id": "DS001",
+      "name": "",
+      "type": "",
+      "location": "",
+      "notes": ""
+    }
+  ],
+  "last_updated": ""
+}

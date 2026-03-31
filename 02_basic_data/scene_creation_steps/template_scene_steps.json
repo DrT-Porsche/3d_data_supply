@@ -1,0 +1,64 @@
+{
+  "_comment": "Scene creation steps template – copy this file, rename it to <scene_type>_steps.json and fill in all fields.",
+  "scene_type": "",
+  "scene_type_description": "",
+  "last_updated": "",
+  "steps": [
+    {
+      "step_id": 1,
+      "name": "Data Intake",
+      "description": "Receive and validate incoming 3D data and reference material.",
+      "responsible_role": "",
+      "dependencies": [],
+      "mandatory": true
+    },
+    {
+      "step_id": 2,
+      "name": "Modelling",
+      "description": "Build or adapt the 3D geometry of the scene.",
+      "responsible_role": "",
+      "dependencies": [1],
+      "mandatory": true
+    },
+    {
+      "step_id": 3,
+      "name": "Texturing",
+      "description": "Apply materials and textures to the 3D geometry.",
+      "responsible_role": "",
+      "dependencies": [2],
+      "mandatory": true
+    },
+    {
+      "step_id": 4,
+      "name": "Lighting",
+      "description": "Set up scene lighting according to requirements.",
+      "responsible_role": "",
+      "dependencies": [3],
+      "mandatory": true
+    },
+    {
+      "step_id": 5,
+      "name": "Rendering",
+      "description": "Render the scene to the required output format.",
+      "responsible_role": "",
+      "dependencies": [4],
+      "mandatory": true
+    },
+    {
+      "step_id": 6,
+      "name": "Quality Assurance",
+      "description": "Review output against scope definition and technical requirements.",
+      "responsible_role": "",
+      "dependencies": [5],
+      "mandatory": true
+    },
+    {
+      "step_id": 7,
+      "name": "Delivery",
+      "description": "Package and deliver the approved output.",
+      "responsible_role": "",
+      "dependencies": [6],
+      "mandatory": true
+    }
+  ]
+}
