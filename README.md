@@ -2,6 +2,8 @@
 
 Organization of the project structure for 3D data supply, including change management. Setup, tasks, tickets.
 
+Need to be updated after upcoming workshop.
+
 ## Project Structure
 
 The repository is organized into four stages that map the full lifecycle of a 3D data supply project:
