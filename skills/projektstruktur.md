@@ -1,20 +1,28 @@
-##Sachnummern
+# Projektstrukturen
 
-##Bauteile
+innerhalb der Datenpipeline gibt es verschiedene Strukturelemente. Diese bauen auf einander auf. in einem Basisporjekt gibt es ca. 4000 Sachnummern, 450 FES-Objekte, 41 Szenen und 10 Kamerapositionen
+Ein erweitertes Projekt ist detailierter und besteht aus ca. 8000 Sachnummern, und 750 FES-Objekten. die Anzahl der Szenen und Kamerapositionen bleibt identisch bei 41 und 10.
 
-##Strukturbereiche
+## Sachnummern
+
+## Bauteile
+
+## Strukturbereiche
+
 Ein Fahrzeug ist in verschiedene Strukturbereiche eingeteilt. Diese sind thematisch zugeorndet und erleichtern die Übersicht. die Strukturbereiche sind in der Datei strukturbereiche.md abgelegt.
 
+## FES-Objekte
 
-##FES-Objekte
 FES bedeudet Fehlereinheitsschlüssel. FES-Objekte sind Bauteile oder Teile davon, die mit einer gleichen Fehleransprache bezeichent werden. Zum Beispiel: Frontklappe, Sitz, Seitenteil hinten rechts. FES-Objekte sind die Elemente, die die Kleinste einheit beim Audit darstellen. Die Daten werden in .glb Dateien gespeichert.
 
-##Szenen
+## Szenen
+
 Jede Ansicht, die geladen werden kann, entspricht einer Szene. Diese enthält eine bestimmte Konfiguratin an FES-Objekten. Unterschiedliche Szenen können teilweiswe gleiche FES-Objekte beinhalten.
 
 Die einzelnen möglichen Szenen sind untereinander in der Datei szenen.md abgelegt.
 
-##Kamerapositionen
+## Kamerapositionen
+
 Manche Szenen enthalten verschiedene Kamerapositionen. Immer dann, wenn eine Konfiguration an FES-Objekten in verschiedenen Darstellungen angezeigt werden soll, werden Kamerapositin in einer Szene genutzt. Das spart Aufwand und generiert Übersichtlichkeit.
 
 Die einzelnen möglichen Kamerapositionen sind in der Datei kamerapos.md abgelegt. die Struktur ist Szenenname (in übereinstimmung mit der szenen.md) und Name der Kameraposition durch Komma getrennt
