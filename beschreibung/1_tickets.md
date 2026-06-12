@@ -1,6 +1,8 @@
-# 
+# Beschreibung, welche Tickets und Arbeitsaufträge geschrieben werden 
+Um die Pipeline zu starten muss für einzelne Arbeitsschritte der Arbeitsauftrag beschrieben werden. Die Arbeitsaufträge sind für die Nutzer lesbar und nachvollziehbar, Konfigurationsdateien sind maschinenlesbar und steuern die Abarbeitung der Pipeline.
 
-
+Es gibt Neuprojekte, die vollumfänglich Daten aufbereiten und ein neues Projekt 
+Es gibt Änderungen, bei denen vorhandene FES-Objekte ersetzt oder zusätzlich erzeugt werden und ini ein vorhandenes Projekt integriert werden
 
 ## Download
 ein Ticket mit Unterpunkten nach Strukturbereichen
